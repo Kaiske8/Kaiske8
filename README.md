@@ -1,9 +1,9 @@
-Overview
+### Overview
 ​I code for hours without getting bored. I am focused on building projects and transitioning into a professional career in software development.
-​Technical Stack
+​### Technical Stack
 Category Languages
 Languages: HTML, CSS, JavaScript, Python
-Current Projects
+###Current Projects
 ​Scuderia-Ferrari — A site built for a friend.
 ​XML-Watchlist-Converter — An anime watchlist tool.
 ​Chainsaw-man-website — first project ever
