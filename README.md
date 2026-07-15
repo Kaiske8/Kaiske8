@@ -1,6 +1,6 @@
 ### Overview
 ​I code for hours without getting bored. I am focused on building projects and transitioning into a professional career in software development.
-​### Technical Stack
+​###Technical Stack
 Category Languages
 Languages: HTML, CSS, JavaScript, Python
 ###Current Projects
