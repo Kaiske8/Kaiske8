@@ -9,7 +9,7 @@ I code for hours without getting bored. I am focused on building projects and tr
 ### Current Projects
 * **Scuderia-Ferrari** — A site built for a friend.
 * **XML-Watchlist-Converter** — An anime watchlist tool.
-* **Chainsaw-man-website** — Ongoing project.
+* **Chainsaw-man-website** — My first project.
 <!--
 **Kaiske8/Kaiske8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
