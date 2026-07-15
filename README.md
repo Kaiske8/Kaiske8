@@ -6,11 +6,10 @@ I code for hours without getting bored. I am focused on building projects and tr
 | :--- | :--- |
 | Languages | HTML, CSS, JavaScript, Python |
 
-#### Current Projects
-* **[Scuderia-Ferrari](https://github.com/Kaiske8/Scuderia-Ferrari)** — A site built for a friend.
-* **[XML-Watchlist-Converter](https://github.com/Kaiske8/XML-Watchlist-Converter)** — An anime watchlist tool.
-* **[Chainsaw-man-website](https://github.com/Kaiske8/Chainsaw-man-website-first-project)** — Ongoing project.
-
+### Current Projects
+* **[Scuderia-Ferrari](https://kaiske8.github.io/Scuderia-Ferrari/)** — A site built for a friend.
+* **[XML-Watchlist-Converter](https://github.com/Kaiske8/XML-Watchlist-Converter)** — An anime watchlist tool (Python script).
+* **[Chainsaw-man-website](https://kaiske8.github.io/Chainsaw-man-website-first-project-/)** — My First Project.
 <!--
 **Kaiske8/Kaiske8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
