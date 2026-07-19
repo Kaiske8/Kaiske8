@@ -1,16 +1,16 @@
-##### Overview
-I code for hours without getting bored. I am focused on building projects and transitioning into a professional career in software development.
-
-### Technical Stack
-| Category | Languages |
-| :--- | :--- |
-| Languages | HTML, CSS, JavaScript, Python |
-
+### Overview
+ 
+I code for hours without getting bored. Started by editing game files, now building projects — working toward turning this into a professional career in software development.
+ 
+**Languages:** HTML, CSS, JavaScript, Python
+ 
 ### Current Projects
-* **[Scuderia-Ferrari](https://kaiske8.github.io/Scuderia-Ferrari/)** — A site built for a friend.
-* **[XML-Watchlist-Converter](https://github.com/Kaiske8/XML-Watchlist-Converter)** — An anime watchlist tool (Python script).
-* **[Chainsaw-man-website](https://kaiske8.github.io/Chainsaw-man-website-first-project-/)** — My First Project.
-* **[Royal-Edge-Kai](https://kaiske8.github.io/Royal-Edge-Kai//Royal-Edge-Kai/)** —Royal Edge Kai
+ 
+- **[Royal-Edge-Kai](https://github.com/Kaiske8/Royal-Edge-Kai)** — Dark, modern barbershop website with four responsive pages and a custom CSS design system. [Live demo](https://kaiske8.github.io/Royal-Edge-Kai/)
+- **[Scuderia-Ferrari](https://github.com/Kaiske8/Scuderia-Ferrari)** — A race-day countdown site built for a friend, with hidden messages, audio easter eggs, and driver stats/timelines.
+- **[XML-Watchlist-Converter](https://github.com/Kaiske8/XML-Watchlist-Converter)** — A Python script that converts anime watchlist data between formats.
+- **[Chainsaw-man-website](https://github.com/Kaiske8/Chainsaw-man-website)** — My first project, where it all started.
+ 
 <!--
 **Kaiske8/Kaiske8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
